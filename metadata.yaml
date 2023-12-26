@@ -1,0 +1,33 @@
+_repo: Books-and-their-makers-during-the-Middle-Ages-Volume-II-b-A-study-of-the-conditions-of-the-pr__72282
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Putnam, George Haven
+    alias: Putnam, Geo. Haven
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '4082'
+    url: http://www.gutenberg.org/2009/agents/4082
+    wikipedia: https://en.wikipedia.org/wiki/George_Haven_Putnam
+description: ''
+gutenberg_issued: '2023-12-02'
+identifiers:
+  gutenberg: '72282'
+language: en
+pgterms:marc904: https://archive.org/details/bookstheirmakers01putn
+pgterms:marc905: 20201219192011putnamam
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: Charlene Taylor, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bG. P. Putnam''s Sons, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Books and their makers during the Middle Ages, Volume II : $b A study of the
+  conditions of the production and distribution of literature from the fall of the
+  Roman empire to the close of the seventeenth century'
+url: http://www.gutenberg.org/ebooks/72282
